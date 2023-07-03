@@ -414,7 +414,7 @@
     <jackson-bom.version>2.14.2</jackson-bom.version>
     <!-- Override the version in Jakarta EE 9 BOM: -->
     <jakarta-activation.version>2.1.1</jakarta-activation.version>
-    <jakarta-mail.version>2.1.1</jakarta-mail.version>
+    <jakarta-mail.version>2.1.2</jakarta-mail.version>
     <!-- BOM with Jakarta EE 9 APIs: -->
     <jakartaee-bom.version>9.0.0</jakartaee-bom.version>
     <!-- No BOM for Java EE 8 APIs, so we list them separately: -->
