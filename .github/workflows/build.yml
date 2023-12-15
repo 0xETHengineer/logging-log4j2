@@ -78,7 +78,7 @@ jobs:
 
       - name: Upload reproducibility failure context artifacts
         if: failure()
-        uses: actions/upload-artifact@v3   # 3.1.2
+        uses: actions/upload-artifact@v4   # 3.1.2
         with:
           name: reproducibility-failure-context-${{matrix.os}}
           path: |
